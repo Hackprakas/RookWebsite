@@ -1679,6 +1679,7 @@ a {
 .team_single_area .team_info .social_icons {
   display: flex;
   margin-top: 50px;
+  width:max-content;
 }
 
 .team_single_area .team_info .social_icons a {
@@ -5030,6 +5031,7 @@ a {
 .main_footer .site_info .social_icons {
   display: flex;
   margin-top: 30px;
+  width:max-content;
 }
 
 .main_footer .site_info .social_icons a {
